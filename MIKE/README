@@ -2,3 +2,9 @@
 14:53, 26/07/2016 : Received an email from recruitment team about issues i have had with opening the files.
 20:38, 26/07/2016 : After having email communication with recruitment team, unable to open the current project on my system.
 
+21:23, 26/07/2016 : Initial thoughts on the project. To view the entire collection via command window is already within the sustem, will
+                    look to add a addBike & getBikeId function to achieve the two requirements. 
+                    I will look to add a interface on top of the classes so they are not directly accessed by the user. 
+                    Deleting entries to the collection could possibly be done by bikeId however, this can increase chance of user error,
+                    if delete is added, i will look into a prompt asking the user if they are sure they want to delete the item.
+                    
