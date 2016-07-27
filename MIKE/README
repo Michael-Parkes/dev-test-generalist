@@ -8,3 +8,14 @@
                     Deleting entries to the collection could possibly be done by bikeId however, this can increase chance of user error,
                     if delete is added, i will look into a prompt asking the user if they are sure they want to delete the item.
                     
+22:39, 27/07/2016: After failing to get software requested to work on my system i have decided to submit a very abstract approach to the
+                   problem. I will be using BlueJ and Java to create a game world which will swap bikes into the world and will hopefully
+                   be colliable so they can detect mouse input. Once mouse input has been detected the game world will have a text box
+                   overlay appear with the description and price of the Bike.
+                   
+                   I will spawn the bikes into the game world using an Object-oreiented pattern known as Factory pattern. This is a efficient
+                   way to create items. Also coding in this way makes the code useable. (To some degree)
+                   
+                   I may venture into creating the bikes as Singletons however, i will see what problems arise before committing to this. 
+                   As my main issue to involve mouse input as i have only previously used keyboard input.
+                   
