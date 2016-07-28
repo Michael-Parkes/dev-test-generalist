@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ShopManager()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ShopManager\r\n\r\n\ TEST\:\ Before\ linking\ to\ the\ ShopActivity\ class\ i\ tested\ the\ ShopManager\ as\ the\ main\ class\ file.\r\n
+comment1.params=
+comment1.target=void\ populate()
+comment2.params=pBike
+comment2.target=void\ addBike(Bikes.IBike)
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\r\n\ METHOD\:\ Run\ the\ ShopManager\ loop.\ \ User\ presses\ escape\ to\ exit.\r\n\r\n
+numComments=4

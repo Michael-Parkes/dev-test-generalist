@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=bikeType
+comment0.target=IBike\ getBike(java.lang.String)
+numComments=1
