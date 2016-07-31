@@ -1,5 +1,7 @@
 14:32, 26/07/2016 : Setting up all programs & GitHub for development of assessment task.
+
 14:53, 26/07/2016 : Received an email from recruitment team about issues i have had with opening the files.
+
 20:38, 26/07/2016 : After having email communication with recruitment team, unable to open the current project on my system.
 
 21:23, 26/07/2016 : Initial thoughts on the project. To view the entire collection via command window is already within the sustem, will
@@ -22,4 +24,18 @@
 		   In terms, of the game world i will create i must stress that i will be using a framework which was provided to me to complete
 		   a university assignment. I will fully state any code which has not been written by myself in the comments of the code.
 
-14:12, 29/07/206:  I have begun making an android application for submission as i believe i can hit more of the requirements using this method.
+14:12, 29/07/2016: I have begun making an android application for submission as i believe i can hit more of the requirements using this method.
+		   You will have to install Android Studio to view this application i will provide a link to their website. The best way to use
+		   the application is through the inbuilt emulator inandroid studio once you have opened the application in the centre of the
+		   toolbar at the top of android studio there is a play button icon click this to lanuch the emulator. Use a Nexus 5 for the device.
+		   It does take some time to load depending on your computer specification.
+
+		   While iwas coding the application i found many people do the same or similiar things to myself while coding this type of application,
+		   As it is a good way to make login/register pages for mobile applications. i looked at https://github.com/tonikami/NEWLoginRegister for a bit of guidance when i got
+		   struck.	
+			
+11:48, 31/07/2016: I have no run out of coding time.I will submit my application as it as which has the option to add a bike to a database and
+		   also has the ability to search for a single bike using the bikeid and the bike name. If you add a bike to the database it should
+		   list them in numerical order. 
+		
+		   Apologies for not being able to use the software you required.
